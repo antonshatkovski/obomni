@@ -40,7 +40,7 @@ footer {
       <p>✔ Люблю играть в игры</p>
         <p>✔ Хорошо умею плавать</p>
         <p>✔ делаю сайты</p>
-      <img src="[/uploads/2021/04/sky-1871753_1280%201_0_1618254989.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kulykivka_IMG_4658_Sky_04.jpg/1200px-Kulykivka_IMG_4658_Sky_04.jpg)" width="830px" height="550px"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kulykivka_IMG_4658_Sky_04.jpg/1200px-Kulykivka_IMG_4658_Sky_04.jpg" width="830px" height="550px"/>
       <img src="https://ru.sport-wiki.org/wp-content/themes/sportwiki/img/plavanie.jpg" width="500px" height="300px"/>
     </main>
     <footer>
